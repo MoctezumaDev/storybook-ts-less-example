@@ -1,0 +1,11 @@
+/node_modules/
+/devenv/
+*.log
+.idea/
+*.iml
+*.iws
+*__pycache__*
+
+/dist/*
+!/dist/index.html
+!/dist/favicon.png

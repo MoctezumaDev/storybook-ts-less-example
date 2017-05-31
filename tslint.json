@@ -1,0 +1,13 @@
+{
+  "extends": "tslint:recommended",
+  "rules": {
+    "no-parameter-properties": true,
+    "no-angle-bracket-type-assertion": false,
+    "ordered-imports": true,
+    "triple-equals": [true, "allow-undefined-check"],
+    "no-null-keyword": true,
+    "space-before-function-parent": [true, "always"],
+    "object-literal-shorthand": false,
+    "max-line-length": [true, 200]
+  }
+}

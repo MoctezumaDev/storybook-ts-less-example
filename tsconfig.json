@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/assets/scripts",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "allowJs": true,
+    "module": "commonjs",
+    "target": "es5",
+    "experimentalDecorators": true,
+    "jsx": "react"
+  },
+  "include": [
+  	"./src/**/*"
+  ]
+}
